@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/ashrit/Desktop/CPP/C++_Programs",
-      "program": "/home/ashrit/Desktop/CPP/C++_Programs/build/Debug/outDebug",
+      "cwd": "/home/ashrit/Desktop/CPP/C++_Programs/cpp-basics",
+      "program": "/home/ashrit/Desktop/CPP/C++_Programs/cpp-basics/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
